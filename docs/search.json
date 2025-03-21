@@ -101,8 +101,8 @@
     "objectID": "index.html#introduction",
     "href": "index.html#introduction",
     "title": "Welcome to LBCNet",
-    "section": "Introduction",
-    "text": "Introduction\nLBCNet is an R package designed to easily estimate propensity scores using advanced deep learning methods (Local Balance with Calibration implemented by Neural Networks) introduced in “A Deep Learning Approach to Nonparametric Propensity Score Estimation with Optimized Covariate Balance”. It provides a user-friendly way to perform robust propensity score analysis while ensuring covariate balance, improving causal inference in observational studies.\n\nWhat is the purpose of LBC-Net?\nThe package aims to provide researchers and analysts with:\n\nNonparametric estimation of propensity scores using neural networks.\nImproved covariate balance, ensuring groups are comparable across a range of covariates\nIntegration of Python and R: Leverage powerful neural network modeling through seamless integration with Python scripts directly within R.\n\n\n\nKey Features\n\nEasy integration of Python within R for running advanced neural network models\nInteractive visualizations that simplify evaluating propensity score distributions and covariate balance:\n\nMirror Histograms (to visualize propensity score distribution)\nLocal Balance Plot (to assess covarite balance)\nHosmer-Lemeshow Plot (to evaluate calibration)\n\nUser-friendly interface making advanced deep-learning methods accessible."
+    "section": "",
+    "text": "LBCNet is an R package designed to easily estimate propensity scores using advanced deep learning methods (Local Balance with Calibration implemented by Neural Networks) introduced in “A Deep Learning Approach to Nonparametric Propensity Score Estimation with Optimized Covariate Balance”. It provides a user-friendly way to perform robust propensity score analysis while ensuring covariate balance, improving causal inference in observational studies.\n\n\nThe package aims to provide researchers and analysts with:\n\nNonparametric estimation of propensity scores using neural networks.\nImproved covariate balance, ensuring groups are comparable across a range of covariates\nIntegration of Python and R: Leverage powerful neural network modeling through seamless integration with Python scripts directly within R.\n\n\n\n\n\nEasy integration of Python within R for running advanced neural network models\nInteractive visualizations that simplify evaluating propensity score distributions and covariate balance:\n\nMirror Histograms (to visualize propensity score distribution)\nLocal Balance Plot (to assess covarite balance)\nHosmer-Lemeshow Plot (to evaluate calibration)\n\nUser-friendly interface making advanced deep-learning methods accessible."
   },
   {
     "objectID": "index.html#installation-instructions",
@@ -131,5 +131,12 @@
     "title": "Welcome to LBCNet",
     "section": "Need Help?",
     "text": "Need Help?\n\nGitHub: LBCNet Repository\n\nEmail: email to contact\n\nWe encourage feedback, issue reporting, and contributions! We’re open to contributions and improvements—visit our GitHub page to report bugs or suggest new features!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to LBCNet",
+    "section": "",
+    "text": "LBCNet is an R package designed to easily estimate propensity scores using advanced deep learning methods (Local Balance with Calibration implemented by Neural Networks) introduced in “A Deep Learning Approach to Nonparametric Propensity Score Estimation with Optimized Covariate Balance”. It provides a user-friendly way to perform robust propensity score analysis while ensuring covariate balance, improving causal inference in observational studies.\n\n\nThe package aims to provide researchers and analysts with:\n\nNonparametric estimation of propensity scores using neural networks.\nImproved covariate balance, ensuring groups are comparable across a range of covariates\nIntegration of Python and R: Leverage powerful neural network modeling through seamless integration with Python scripts directly within R.\n\n\n\n\n\nEasy integration of Python within R for running advanced neural network models\nInteractive visualizations that simplify evaluating propensity score distributions and covariate balance:\n\nMirror Histograms (to visualize propensity score distribution)\nLocal Balance Plot (to assess covarite balance)\nHosmer-Lemeshow Plot (to evaluate calibration)\n\nUser-friendly interface making advanced deep-learning methods accessible."
   }
 ]

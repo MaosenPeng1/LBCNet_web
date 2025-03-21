@@ -4,9 +4,9 @@ subtitle: "An R package for nonparametric propensity score estimation"
 toc: false
 ---
 
-<div style="float: right; margin: 0 0 15px 15px;">
-  <img src="images/Logo.png" width="200px">
-</div>
+<!-- <div style="float: right; margin: 0 0 15px 15px;"> -->
+<!--   <img src="images/Logo.png" width="200px"> -->
+<!-- </div> -->
 
 ## Introduction
 **`LBCNet`** is an R package designed to easily estimate propensity scores using advanced deep learning methods (Local Balance with Calibration implemented by Neural Networks) introduced in "A Deep Learning Approach to Nonparametric Propensity Score Estimation with Optimized Covariate Balance". It provides a user-friendly way to perform robust propensity score analysis while ensuring covariate balance, improving causal inference in observational studies.
