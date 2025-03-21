@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs  # makes publishing easy on GitHub pages
+
+website:
+  title: "LBCNet"
+  image: images/logo.png
+  navbar:
+    logo: images/logo.png
+    background: primary
+    search: true
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Simulated Example"
+        href: example.qmd
+      - text: "Tutorial"
+        href: tutorial.qmd
+      - icon: github
+        href: "https://github.com/MaosenPeng1/LBCNet"
+      - icon: envelope
+        href: "mailto:mpeng1@mdanderson.org"
+  page-footer:
+    left: "Built with ❤️ using [Quarto](https://quarto.org/)"
+    right:
+      - icon: github
+        href: "https://github.com/MaosenPeng1"
+      - icon: linkedin
+        href: "https://linkedin.com/in/maosenpeng"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

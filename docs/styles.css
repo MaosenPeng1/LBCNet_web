@@ -1,0 +1,38 @@
+/* styles.css */
+.navbar {
+  font-size: 17px;
+}
+
+h1, h2, h3 {
+  font-weight: 700;
+}
+
+a {
+  color: #007bff;
+}
+
+a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+.footer {
+  font-size: 14px;
+  color: #777;
+}
+
+
+.navbar-brand img {
+  max-height: 60px !important; /* Adjust size here */
+  width: auto !important;
+}
+
+/* Main Text styling */
+body {
+  font-size: 16px;            /* Adjusts main text size (recommended 14px - 18px) */
+  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif; /* Professional font */
+  line-height: 1.6;           /* Improves readability */
+  color: #333;                /* Dark grey text for easy reading */
+}
+
+
