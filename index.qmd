@@ -185,6 +185,6 @@ Explore the package with our easy-to-follow resources:
 - GitHub: [LBCNet Repository](https://github.com/MaosenPeng1/LBCNet)  
 - Email: [email to contact](mailto:mpeng1@mdanderson.org)
 
-We encourage feedback, issue reporting, and contributions! We're open to contributions and improvements—visit our [GitHub page](https://github.com/MaosenPeng1/LBC_Net/issues) to report bugs or suggest new features!
+We encourage feedback, issue reporting, and contributions! We're open to contributions and improvements—visit our [GitHub page](https://github.com/MaosenPeng1/LBCNet_web/issues) to report bugs or suggest new features!
 
 
